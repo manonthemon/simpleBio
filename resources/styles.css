@@ -1,0 +1,23 @@
+.box {
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+    border: 10px solid rgb(226, 194, 11);
+    margin-left: 100px;
+    margin-bottom: -27px;
+ 
+    background: white;
+    
+}
+
+.para {
+
+    width: 500px;
+    height: 250px;
+    padding: 80px;
+    border: 10px solid rgb(226, 194, 11);
+    margin-left: 100px;
+
+    background: white;
+    
+}
